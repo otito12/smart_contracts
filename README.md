@@ -1,2 +1,2 @@
 # smart_contracts
-Just learning solidity -\( "/ )/- why not
+Just learning solidity -\\( "/ )/- why not
